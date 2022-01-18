@@ -1,0 +1,25 @@
+div.panel {
+    background-color: #272727;
+    color: #ffffff !important;
+    padding: 30px 25px;
+    border-left: 0.25rem solid #6eff00;
+    font-family: Consolas, monospace;
+    text-align: justify;
+}
+
+span.code {
+    background-color: #363636;
+    padding: 0px 4px 0px 4px;
+}
+
+a {
+    text-decoration: none;
+    border-bottom: 2px dashed #6eff00;
+    color: #fffffe;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #6eff00;
+    border-bottom-style: none;
+}
