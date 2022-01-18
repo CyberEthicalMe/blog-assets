@@ -9,6 +9,7 @@ div.panel {
 
 ul.socials-list {
     list-style-type: none;
+    margin-block-end: 0px;
 }
 
 span.code {
