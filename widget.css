@@ -7,6 +7,10 @@ div.panel {
     text-align: justify;
 }
 
+ul.socials-list {
+    list-style-type: none;
+}
+
 span.code {
     background-color: #363636;
     padding: 0px 4px 0px 4px;
