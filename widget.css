@@ -7,9 +7,16 @@ div.panel {
     text-align: justify;
 }
 
-ul.socials-list {
+ul.socials-list,
+ul.hashnode-features {
     list-style-type: none;
-    margin-block-end: 0px;
+    margin-block-end: -5px;
+    margin-block-start: 5px;
+}
+
+ul.socials-list li,
+ul.hashnode-features li {
+    margin-block-end: 5px;
 }
 
 span.code {
