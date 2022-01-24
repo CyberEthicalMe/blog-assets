@@ -35,3 +35,7 @@ a:hover {
     color: #6eff00;
     border-bottom-style: none;
 }
+
+.check-mark {
+    color: limegreen;
+}
